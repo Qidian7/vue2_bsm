@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_bsm"]=self["webpackChunkvue2_bsm"]||[]).push([[666],{26666:function(e,u,n){n.r(u),n.d(u,{default:function(){return l}});var r=function(){var e=this,u=e._self._c;return u("div",[e._v("分数地图")])},s=[],t={name:"ScoreMap"},a=t,c=n(1001),f=(0,c.Z)(a,r,s,!1,null,"f41b59ea",null),l=f.exports}}]);
+//# sourceMappingURL=666.92dcaf2a.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue2_bsm"]=self["webpackChunkvue2_bsm"]||[]).push([[922],{84922:function(t,n,s){s.r(n),s.d(n,{default:function(){return o}});var u=function(){var t=this,n=t._self._c;return n("div",{staticClass:"notfound"},[n("div",{staticClass:"wrapper"},[n("div",[t._v(" 点击"),n("router-link",{staticClass:"route_link",attrs:{to:"/"}},[t._v("这里 ")]),t._v("进入首页 ")],1)])])},e=[],r={name:"Notfound",data(){return{}}},a=r,l=s(1001),i=(0,l.Z)(a,u,e,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=922.6da9eeee.js.map
